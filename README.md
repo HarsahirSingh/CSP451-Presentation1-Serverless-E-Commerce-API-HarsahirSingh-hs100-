@@ -31,3 +31,6 @@ Stream Analytics → Azure Functions (AlertProcessor) → Logic App → Email Al
 ## Author
 Harsahir Singh — Student ID: 165357187
 Seneca Polytechnic — CSP451NIA
+
+
+https://youtu.be/0-Tq-x2wuY4
